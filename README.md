@@ -44,5 +44,5 @@ flyway.conf文件会有数据库的连接信息，这是敏感信息。我们不
 
 END 全文完
 
-作者：翟志军 个人公众号：老翟杂谈  个人博客：https://showme.codes
+作者：翟志军 公众号：持续交付实践指南  个人博客：https://showme.codes
 
